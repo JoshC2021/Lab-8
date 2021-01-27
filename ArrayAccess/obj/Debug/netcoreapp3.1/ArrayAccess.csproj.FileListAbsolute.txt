@@ -1,0 +1,13 @@
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\bin\Debug\netcoreapp3.1\ArrayAccess.exe
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\bin\Debug\netcoreapp3.1\ArrayAccess.deps.json
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\bin\Debug\netcoreapp3.1\ArrayAccess.runtimeconfig.json
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\bin\Debug\netcoreapp3.1\ArrayAccess.runtimeconfig.dev.json
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\bin\Debug\netcoreapp3.1\ArrayAccess.dll
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\bin\Debug\netcoreapp3.1\ArrayAccess.pdb
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\obj\Debug\netcoreapp3.1\ArrayAccess.csprojAssemblyReference.cache
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\obj\Debug\netcoreapp3.1\ArrayAccess.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\obj\Debug\netcoreapp3.1\ArrayAccess.AssemblyInfo.cs
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\obj\Debug\netcoreapp3.1\ArrayAccess.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\obj\Debug\netcoreapp3.1\ArrayAccess.dll
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\obj\Debug\netcoreapp3.1\ArrayAccess.pdb
+C:\Users\Josh\source\repos\ArrayAccess\ArrayAccess\obj\Debug\netcoreapp3.1\ArrayAccess.genruntimeconfig.cache
